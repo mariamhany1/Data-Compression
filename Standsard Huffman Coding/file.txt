@@ -1,0 +1,5 @@
+original size = 24 bits
+compressed size = 16 bits
+Entropy = 2.584962500721156 bits/symbol
+H = 15.509775004326936 bits
+Code = 0100010110001110
